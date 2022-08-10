@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100vh;
+    background: linear-gradient(to right, #9900ff, #cc80ff);
+}
+img{
+border-radius: 50%;
+width:50px;
+}
+.text{
+    font-size:20px;
+}
+button{
+    width: 80px;
+    border-radius: 8px;
+    height: 25px;
+    font-size: 15px;
+}
